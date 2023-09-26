@@ -1,5 +1,7 @@
 What I did this fortnight!
 
+GROUP: Gonzalo, Jack, 
+
 
 Core Practice:
 F2_1_MoreOnDatasets.ipynb
