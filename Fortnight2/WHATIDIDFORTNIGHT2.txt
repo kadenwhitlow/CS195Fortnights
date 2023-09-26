@@ -1,0 +1,27 @@
+What I did this fortnight!
+
+
+Core Practice:
+F2_1_MoreOnDatasets.ipynb
+F2_2_SummarizationTranslationQuestionAnswering.ipynb
+F2_3_QuestionAnswering.ipynb
+F2_4_MarkovModels.ipynb
+
+
+Applied Explorations:
+F2_3_QuestionAnswering.ipynb
+F2_4_MarkovModels.ipynb
+
+
+Creative Synthesis:
+F2_4_MarkovModels.ipynb
+
+Located at the bottom of the Markov Models notebook.
+
+I created a program that lets a user choose what type of story they want to write, from 6 different genres.
+Then trains a model based on story data from the chosen genre dataset.
+
+Then it asks the user to start typing the story they want to create! 
+When the user is done writing their story is completed automatically by the model.
+
+The full story is then generated.
