@@ -1,13 +1,28 @@
 FORTNIGHT DAY:
 
+POINTS EXPECTED: 15xp
+
+PRESENTATION:
+  PRESENTED TO: Jack, Gonzalo, Angel
+
 WHAT I DID:
+
 SMALL PROJECT - 5pts
+The gui has a user enter text and then click submit. 
+It then analyzes the text and outputs a score.
+You can continue to add to the text and the gui will take an average of all of the scores.
+
 CORE PRACTICE: - 5pts
-HuggingFaceAppliedExplorationandPractice.ipynb
-INCLUDESGROUPWORKDataEvaluation.ipynb
-RougeSummarizationPractice.ipynb
-APPLIED EXPLORATION - 5pts
+  HuggingFaceAppliedExplorationandPractice.ipynb
+  INCLUDESGROUPWORKDataEvaluation.ipynb
+  RougeSummarizationPractice.ipynb
+
+APPLIED EXPLORATION: - 5pts
+  HuggingFaceAppliedExplorationandPractice.ipynb
+
 GROUP WORK: - 2pts
+  INCLUDESGROUPWORKDataEvaluation.ipynb
+
 PRESENTATION:
   PRESENTED TO: Jack, Gonzalo, Angel
 
