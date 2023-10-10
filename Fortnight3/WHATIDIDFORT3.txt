@@ -1,3 +1,19 @@
 WHAT I DID THIS FORTNIGHT!:
 
 
+CORE PRACTICE: 5PTS
+F3_1 Tokenization
+F3_2 AutoTokenization
+F3_3 HMMPOS
+
+
+Applied Exploration: 5PTS
+F3_2 AutoTokenization - CORE PRACTICE
+  NOTE: I did the core practice at the bottom of the F3_2 AutoTokenization notebook!
+
+
+Extended Implementation Idea:
+
+
+
+
