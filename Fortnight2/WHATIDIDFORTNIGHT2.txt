@@ -1,21 +1,24 @@
 What I did this fortnight!
 
+
+POINTS EXPECTED: 15xp
+
 GROUP: Gonzalo, Jack, Angel
 
 
-Core Practice:
+Core Practice: 5PTS
 F2_1_MoreOnDatasets.ipynb
 F2_2_SummarizationTranslationQuestionAnswering.ipynb
 F2_3_QuestionAnswering.ipynb
 F2_4_MarkovModels.ipynb
 
 
-Applied Explorations:
+Applied Explorations: 5PTS
 F2_3_QuestionAnswering.ipynb
 F2_4_MarkovModels.ipynb
 
 
-Creative Synthesis:
+Creative Synthesis: 5PTS
 F2_4_MarkovModels.ipynb
 
 Located at the bottom of the Markov Models notebook.
