@@ -1,0 +1,23 @@
+WHAT I DID THIS FORTNIGHT!:
+
+GROUP:
+
+
+POINTS EXPECTED: 15xp
+
+CORE PRACTICE: 5xp
+
+- F4_1_WORDNET.ipynb
+- F4_2_WORDSENSEDISAMBIGUATION.ipynb
+- F4_3_CONTEXTFREEGRAMMARS.ipynb
+
+APPLIED EXPLORATION: 5xp
+
+- F4_3_CONTEXTFREEGRAMMARS.ipynb
+
+SMALL PROJECT: 5xp
+
+- WordGame.py
+
+  DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
+  and the board is generated based on synonyms of words.
