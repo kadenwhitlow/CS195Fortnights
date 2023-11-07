@@ -1,26 +1,21 @@
 WHAT I DID THIS FORTNIGHT!:
 
-GROUP: Gabe, Cooper, Mack
+GROUP: 
 
 WHAT I PRESENTED:
 
-I presented the small project matching game I created! The description of the game is below.
+I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
+for text classification and got it working with the Keras neural network.
 
-POINTS EXPECTED: 15xp
+POINTS EXPECTED: 10xp
 
 CORE PRACTICE: 5xp
 
-- F4_1_WORDNET.ipynb
-- F4_2_WORDSENSEDISAMBIGUATION.ipynb
-- F4_3_CONTEXTFREEGRAMMARS.ipynb
+- F5_1_Parsing.ipynb
+- F5_2_MachineLearning.ipynb
+- F5_3_NeuralNetworks.ipynb
+- F5_4_Embeddings.ipynb
 
 APPLIED EXPLORATION: 5xp
 
-- F4_3_CONTEXTFREEGRAMMARS.ipynb
-
-SMALL PROJECT: 5xp
-
-- WordGame.py
-
-  DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
-  and the board is generated based on synonyms of words.
+- F5_3_NeuralNetworks.ipynb
