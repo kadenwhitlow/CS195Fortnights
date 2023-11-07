@@ -5,7 +5,7 @@ GROUP:
 WHAT I PRESENTED:
 
 I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
-for text classification and got it working with the Keras neural network.
+for text classification and got it working with the Keras neural network. I also changed and added more layers.
 
 POINTS EXPECTED: 10xp
 
