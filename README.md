@@ -130,3 +130,24 @@ SMALL PROJECT: 5xp
 
   DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
   and the board is generated based on synonyms of words.
+
+# Fortnight 5
+GROUP: Gabe, Ana, Katya
+
+WHAT I PRESENTED:
+
+I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
+for text classification and got it working with the Keras neural network. I also changed and added more layers.
+
+POINTS EXPECTED: 10xp
+
+CORE PRACTICE: 5xp
+
+- F5_1_Parsing.ipynb
+- F5_2_MachineLearning.ipynb
+- F5_3_NeuralNetworks.ipynb
+- F5_4_Embeddings.ipynb
+
+APPLIED EXPLORATION: 5xp
+
+- F5_3_NeuralNetworks.ipynb
