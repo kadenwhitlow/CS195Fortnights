@@ -106,3 +106,27 @@ F3_2 AutoTokenization - Extended Implementation
 5xp - Core Practice
 5xp - Applied Exploration
 5xp - Small Project
+GROUP: Gabe, Cooper, Mack
+
+WHAT I PRESENTED:
+
+I presented the small project matching game I created! The description of the game is below.
+
+POINTS EXPECTED: 15xp
+
+CORE PRACTICE: 5xp
+
+- F4_1_WORDNET.ipynb
+- F4_2_WORDSENSEDISAMBIGUATION.ipynb
+- F4_3_CONTEXTFREEGRAMMARS.ipynb
+
+APPLIED EXPLORATION: 5xp
+
+- F4_3_CONTEXTFREEGRAMMARS.ipynb
+
+SMALL PROJECT: 5xp
+
+- WordGame.py
+
+  DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
+  and the board is generated based on synonyms of words.
