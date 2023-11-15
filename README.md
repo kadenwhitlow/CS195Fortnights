@@ -50,6 +50,36 @@ You can continue to add to the text and the gui will take an average of all of t
 5xp - Applied Exploration
 5xp - Small Project
 
+POINTS EXPECTED: 15xp
+
+GROUP: Gonzalo, Jack, Angel
+
+
+Core Practice: 5PTS
+F2_1_MoreOnDatasets.ipynb
+F2_2_SummarizationTranslationQuestionAnswering.ipynb
+F2_3_QuestionAnswering.ipynb
+F2_4_MarkovModels.ipynb
+
+
+Applied Explorations: 5PTS
+F2_3_QuestionAnswering.ipynb
+F2_4_MarkovModels.ipynb
+
+
+Creative Synthesis: 5PTS
+F2_4_MarkovModels.ipynb
+
+Located at the bottom of the Markov Models notebook.
+
+I created a program that lets a user choose what type of story they want to write, from 6 different genres.
+Then trains a model based on story data from the chosen genre dataset.
+
+Then it asks the user to start typing the story they want to create! 
+When the user is done writing their story is completed automatically by the model.
+
+The full story is then generated.
+
 # Fortnight 3
 5xp - Core Practice
 5xp - Applied Exploration
