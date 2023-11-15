@@ -84,6 +84,23 @@ The full story is then generated.
 5xp - Core Practice
 5xp - Applied Exploration
 5xp - Extended Implementation
+EXPECTED POINTS: 15xp
+
+GROUP MEMBERS: Gabe, Cooper, Mack
+CORE PRACTICE: 5PTS
+F3_1 Tokenization
+F3_2 AutoTokenization
+F3_3 HMMPOS
+
+
+Applied Exploration: 5PTS
+F3_2 AutoTokenization - CORE PRACTICE
+  NOTE: I did the core practice at the bottom of the F3_2 AutoTokenization notebook!
+
+
+Extended Implementation Idea: 5PTS
+F3_2 AutoTokenization - Extended Implementation
+  NOTE: I did the extended implementation at the bottom of the F3_2 AutoTokenization notebook!
 
 # Fortnight 4
 5xp - Core Practice
