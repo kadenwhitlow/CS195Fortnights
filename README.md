@@ -26,6 +26,11 @@ The gui has a user enter text and then click submit.
 It then analyzes the text and outputs a score.
 You can continue to add to the text and the gui will take an average of all of the scores.
 
+GUI IMAGE:
+<img width="1440" alt="Screenshot 2023-11-21 at 9 22 48 AM" src="https://github.com/kadenwhitlow/CS195Fortnights/assets/118291323/a5bae7d2-fd19-4753-b01a-2ef9efdc91da">
+
+
+
 CORE PRACTICE: - 5pts
   HuggingFaceAppliedExplorationandPractice.ipynb
   INCLUDESGROUPWORKDataEvaluation.ipynb
