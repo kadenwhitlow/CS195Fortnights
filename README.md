@@ -72,12 +72,10 @@ F2_4_MarkovModels.ipynb
 
 Located at the bottom of the Markov Models notebook.
 
-I created a program that lets a user choose what type of story they want to write, from 6 different genres.
+I loaded different genres of stories from HuggingFace datasets and then trained the Markov model on them, then I improved the model so it would base predictions on multiple words. This allowed the user to choose what type of story they want to write, from 6 different genres.
 Then trains a model based on story data from the chosen genre dataset.
-
 Then it asks the user to start typing the story they want to create! 
 When the user is done writing their story is completed automatically by the model.
-
 The full story is then generated.
 
 # Fortnight 3
