@@ -134,6 +134,11 @@ SMALL PROJECT: 5xp
   DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
   and the board is generated based on synonyms of words.
 
+GUI IMAGE:
+<img width="1440" alt="Screenshot 2023-11-21 at 9 30 17 AM" src="https://github.com/kadenwhitlow/CS195Fortnights/assets/118291323/702393a7-3bc8-44c1-9bc3-33d6373656c6">
+
+
+
 # Fortnight 5
 GROUP: Gabe, Ana, Katya
 
