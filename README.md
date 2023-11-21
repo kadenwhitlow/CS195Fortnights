@@ -14,7 +14,7 @@ There is more information in the text files for every folder.
 5xp - Applied Exploration
 5xp - Small Project
 
-POINTS EXPECTED: 17xp
+POINTS EXPECTED: 15xp
 
 PRESENTATION:
   PRESENTED TO: Jack, Gonzalo, Angel
