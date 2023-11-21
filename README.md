@@ -151,3 +151,26 @@ CORE PRACTICE: 5xp
 APPLIED EXPLORATION: 5xp
 
 - F5_3_NeuralNetworks.ipynb
+
+
+# Fortnight 6
+
+GROUP: Gabe, Ana, Katya
+
+WHAT I PRESENTED:
+
+I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
+for text classification and got it working with the Keras neural network. I also changed and added more layers.
+
+POINTS EXPECTED: 10xp
+
+CORE PRACTICE: 5xp
+
+- F6_1_NeuralLanguageModeling.ipynb
+- F6_2_RecurrentNeuralNetworks.ipynb
+- F6_3_EncoderDecoder.ipynb
+- F6_4_LongTermRecurrence.ipynb
+
+APPLIED EXPLORATION: 5xp
+
+- F6_1_NeuralLanguageModeling.ipynb
