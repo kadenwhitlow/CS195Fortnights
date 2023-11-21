@@ -11,11 +11,11 @@ POINTS EXPECTED: 10xp
 
 CORE PRACTICE: 5xp
 
-- F5_1_Parsing.ipynb
-- F5_2_MachineLearning.ipynb
-- F5_3_NeuralNetworks.ipynb
-- F5_4_Embeddings.ipynb
+- F6_1_NeuralLanguageModeling.ipynb
+- F6_2_RecurrentNeuralNetworks.ipynb
+- F6_3_EncoderDecoder.ipynb
+- F6_4_LongTermRecurrence.ipynb
 
 APPLIED EXPLORATION: 5xp
 
-- F5_3_NeuralNetworks.ipynb
+- F6_1_NeuralLanguageModeling.ipynb
