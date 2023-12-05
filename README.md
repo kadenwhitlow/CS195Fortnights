@@ -40,7 +40,7 @@ APPLIED EXPLORATION: - 5pts
   - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
 
 GROUP WORK: - 2pts
-  [INCLUDESGROUPWORKDataEvaluation.ipynb](INCLUDESGROUPWORKDataEvaluation.ipynb)
+  [INCLUDESGROUPWORKDataEvaluation.ipynb](Fortnight1/INCLUDESGROUPWORKDataEvaluation.ipynb)
 
 PRESENTATION:
   PRESENTED TO: Jack, Gonzalo, Angel
@@ -61,19 +61,19 @@ GROUP: Gonzalo, Jack, Angel
 
 
 Core Practice: 5PTS
-F2_1_MoreOnDatasets.ipynb
-F2_2_SummarizationTranslationQuestionAnswering.ipynb
-F2_3_QuestionAnswering.ipynb
-F2_4_MarkovModels.ipynb
+- [F2_1_MoreOnDatasets.ipynb](Fortnight2/F2_1_MoreOnDatasets.ipynb)
+- [F2_2_SummarizationTranslationQuestionAnswering.ipynb](Fortnight2/F2_2_SummarizationTranslationQuestionAnswering.ipynb)
+- [F2_3_QuestionAnswering.ipynb](Fortnight2/F2_3_QuestionAnswering.ipynb)
+- [F2_4_MarkovModels.ipynb](F2_4_MarkovModels.ipynb)
 
 
 Applied Explorations: 5PTS
-F2_3_QuestionAnswering.ipynb
-F2_4_MarkovModels.ipynb
+- [F2_3_QuestionAnswering.ipynb](Fortnight2/F2_3_QuestionAnswering.ipynb)
+- [F2_4_MarkovModels.ipynb](F2_4_MarkovModels.ipynb)
 
 
 Creative Synthesis: 5PTS
-F2_4_MarkovModels.ipynb
+- F2_4_MarkovModels.ipynb
 
 Located at the bottom of the Markov Models notebook.
 
