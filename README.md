@@ -92,7 +92,9 @@ EXPECTED POINTS: 15xp
 GROUP MEMBERS: Gabe, Cooper, Mack
 CORE PRACTICE: 5PTS
 F3_1 Tokenization
+[](Fortnight3/COREPRACTICEF3_1_Tokenization.ipynb)
 F3_2 AutoTokenization
+[F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb)
 F3_3 HMMPOS
 
 
