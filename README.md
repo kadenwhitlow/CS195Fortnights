@@ -69,11 +69,11 @@ Core Practice: 5PTS
 
 Applied Explorations: 5PTS
 - [F2_3_QuestionAnswering.ipynb](Fortnight2/F2_3_QuestionAnswering.ipynb)
-- [F2_4_MarkovModels.ipynb](F2_4_MarkovModels.ipynb)
+- [F2_4_MarkovModels.ipynb](Fortnight2/F2_4_MarkovModels.ipynb)
 
 
 Creative Synthesis: 5PTS
-- F2_4_MarkovModels.ipynb
+- [F2_4_MarkovModels.ipynb](Fortnight2/F2_4_MarkovModels.ipynb)
 
 Located at the bottom of the Markov Models notebook.
 
@@ -92,19 +92,20 @@ EXPECTED POINTS: 15xp
 GROUP MEMBERS: Gabe, Cooper, Mack
 CORE PRACTICE: 5PTS
 F3_1 Tokenization
-[](Fortnight3/COREPRACTICEF3_1_Tokenization.ipynb)
+- [COREPRACTICEF3_1_Tokenization.ipynb](Fortnight3/COREPRACTICEF3_1_Tokenization.ipynb)
 F3_2 AutoTokenization
-[F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb)
+- [F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb)
 F3_3 HMMPOS
+- [COREPRACTICEF3_3_HMMPOS.ipynb](Fortnight3/COREPRACTICEF3_3_HMMPOS.ipynb)
 
 
 Applied Exploration: 5PTS
-F3_2 AutoTokenization - CORE PRACTICE
+- [F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb) : CORE PRACTICE
   NOTE: I did the core practice at the bottom of the F3_2 AutoTokenization notebook!
 
 
 Extended Implementation Idea: 5PTS
-F3_2 AutoTokenization - Extended Implementation
+- [F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb) : Extended Implementation
   NOTE: I did the extended implementation at the bottom of the F3_2 AutoTokenization notebook!
 
 # Fortnight 4
