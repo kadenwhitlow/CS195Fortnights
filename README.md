@@ -174,10 +174,10 @@ POINTS EXPECTED: 10xp
 
 CORE PRACTICE: 5xp
 
-- F6_1_NeuralLanguageModeling.ipynb
-- F6_2_RecurrentNeuralNetworks.ipynb
-- F6_3_EncoderDecoder.ipynb
-- F6_4_LongTermRecurrence.ipynb
+- [F6_1_NeuralLanguageModeling.ipynb](Fortnight6/APPLIEDEXPLORATIONF6_1_NeuralLanguageModeling.ipynb)
+- [F6_2_RecurrentNeuralNetworks.ipynb](Fortnight6/APPLIEDEXPLORATIONF6_1_NeuralLanguageModeling.ipynb)
+- [F6_3_EncoderDecoder.ipynb](Fortnight6/APPLIEDEXPLORATIONF6_1_NeuralLanguageModeling.ipynb)
+- [F6_4_LongTermRecurrence.ipynb](Fortnight6/APPLIEDEXPLORATIONF6_1_NeuralLanguageModeling.ipynb)
 
 APPLIED EXPLORATION: 5xp
 
