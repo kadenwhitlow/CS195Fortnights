@@ -51,28 +51,28 @@ It then analyzes the text and outputs a score.
 You can continue to add to the text and the gui will take an average of all of the scores.
 
 # Fortnight 2
-5xp - Core Practice
-5xp - Applied Exploration
-5xp - Small Project
+- 5xp : Core Practice
+- 5xp : Applied Exploration
+- 5xp : Small Project
 
 POINTS EXPECTED: 15xp
 
 GROUP: Gonzalo, Jack, Angel
 
 
-Core Practice: 5PTS
+Core Practice : 5PTS
 - [F2_1_MoreOnDatasets.ipynb](Fortnight2/F2_1_MoreOnDatasets.ipynb)
 - [F2_2_SummarizationTranslationQuestionAnswering.ipynb](Fortnight2/F2_2_SummarizationTranslationQuestionAnswering.ipynb)
 - [F2_3_QuestionAnswering.ipynb](Fortnight2/F2_3_QuestionAnswering.ipynb)
 - [F2_4_MarkovModels.ipynb](F2_4_MarkovModels.ipynb)
 
 
-Applied Explorations: 5PTS
+Applied Explorations : 5PTS
 - [F2_3_QuestionAnswering.ipynb](Fortnight2/F2_3_QuestionAnswering.ipynb)
 - [F2_4_MarkovModels.ipynb](Fortnight2/F2_4_MarkovModels.ipynb)
 
 
-Creative Synthesis: 5PTS
+Creative Synthesis : 5PTS
 - [F2_4_MarkovModels.ipynb](Fortnight2/F2_4_MarkovModels.ipynb)
 
 Located at the bottom of the Markov Models notebook.
@@ -84,9 +84,9 @@ When the user is done writing their story is completed automatically by the mode
 The full story is then generated.
 
 # Fortnight 3
-5xp - Core Practice
-5xp - Applied Exploration
-5xp - Extended Implementation
+- 5xp : Core Practice
+- 5xp : Applied Exploration
+- 5xp : Extended Implementation
 EXPECTED POINTS: 15xp
 
 GROUP MEMBERS: Gabe, Cooper, Mack
