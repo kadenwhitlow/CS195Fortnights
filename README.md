@@ -32,12 +32,12 @@ GUI IMAGE:
 
 
 CORE PRACTICE: - 5pts
-  [a link](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
-  INCLUDESGROUPWORKDataEvaluation.ipynb
-  RougeSummarizationPractice.ipynb
+  - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
+  - [INCLUDESGROUPWORKDataEvaluation.ipynb](Fortnight1/INCLUDESGROUPWORKDataEvaluation.ipynb)
+  - [RougeSummarizationPractice.ipynb](Fortnight1/RougeSummarizationPractice.ipynb)
 
 APPLIED EXPLORATION: - 5pts
-  HuggingFaceAppliedExplorationandPractice.ipynb
+  - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
 
 GROUP WORK: - 2pts
   INCLUDESGROUPWORKDataEvaluation.ipynb
