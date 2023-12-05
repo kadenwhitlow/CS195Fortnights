@@ -40,7 +40,7 @@ APPLIED EXPLORATION: - 5pts
   - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
 
 GROUP WORK: - 2pts
-  INCLUDESGROUPWORKDataEvaluation.ipynb
+  [INCLUDESGROUPWORKDataEvaluation.ipynb](INCLUDESGROUPWORKDataEvaluation.ipynb)
 
 PRESENTATION:
   PRESENTED TO: Jack, Gonzalo, Angel
