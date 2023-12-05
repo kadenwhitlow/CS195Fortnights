@@ -91,11 +91,8 @@ EXPECTED POINTS: 15xp
 
 GROUP MEMBERS: Gabe, Cooper, Mack
 CORE PRACTICE: 5PTS
-F3_1 Tokenization
 - [COREPRACTICEF3_1_Tokenization.ipynb](Fortnight3/COREPRACTICEF3_1_Tokenization.ipynb)
-F3_2 AutoTokenization
 - [F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb)
-F3_3 HMMPOS
 - [COREPRACTICEF3_3_HMMPOS.ipynb](Fortnight3/COREPRACTICEF3_3_HMMPOS.ipynb)
 
 
@@ -124,6 +121,7 @@ CORE PRACTICE: 5xp
 
 - F4_1_WORDNET.ipynb
 - F4_2_WORDSENSEDISAMBIGUATION.ipynb
+- Fortnight4/APPLIED EXPORATION F4_2_WordSenseDisambiguation.ipynb
 - F4_3_CONTEXTFREEGRAMMARS.ipynb
 
 APPLIED EXPLORATION: 5xp
