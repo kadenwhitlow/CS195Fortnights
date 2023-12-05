@@ -10,9 +10,9 @@ There is more information in the text files for every folder.
 ## PROJECTED POINTS EARNED:
 
 # Fortnight 1
-5xp - Core Practice
-5xp - Applied Exploration
-5xp - Small Project
+5xp : Core Practice
+5xp : Applied Exploration
+5xp : Small Project
 
 POINTS EXPECTED: 17xp
 
@@ -31,15 +31,15 @@ GUI IMAGE:
 
 
 
-CORE PRACTICE: - 5pts
+CORE PRACTICE:  5pts
   - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
   - [INCLUDESGROUPWORKDataEvaluation.ipynb](Fortnight1/INCLUDESGROUPWORKDataEvaluation.ipynb)
   - [RougeSummarizationPractice.ipynb](Fortnight1/RougeSummarizationPractice.ipynb)
 
-APPLIED EXPLORATION: - 5pts
+APPLIED EXPLORATION:  5pts
   - [HuggingFaceAppliedExplorationandPractice.ipynb](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
 
-GROUP WORK: - 2pts
+GROUP WORK:  2pts
   [INCLUDESGROUPWORKDataEvaluation.ipynb](Fortnight1/INCLUDESGROUPWORKDataEvaluation.ipynb)
 
 PRESENTATION:
@@ -119,13 +119,13 @@ POINTS EXPECTED: 15xp
 
 CORE PRACTICE: 5xp
 
-- [F4_1_WORDNET.ipynb](Fortnight4/COREPRACTICE F4_1_WordNet.ipynb)
-- [F4_2_WORDSENSEDISAMBIGUATION.ipynb](Fortnight4/APPLIED EXPORATION F4_2_WordSenseDisambiguation.ipynb)
-- [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICE Copy_of_F4_3_ContextFreeGrammars.ipynb)
+- [F4_1_WORDNET.ipynb](Fortnight4/COREPRACTICEF4_1_WordNet.ipynb)
+- [F4_2_WORDSENSEDISAMBIGUATION.ipynb](Fortnight4/APPLIEDEXPORATIONF4_2_WordSenseDisambiguation.ipynb)
+- [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICECopy_of_F4_3_ContextFreeGrammars.ipynb)
 
 APPLIED EXPLORATION: 5xp
 
-- [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICE Copy_of_F4_3_ContextFreeGrammars.ipynb)
+- [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICECopy_of_F4_3_ContextFreeGrammars.ipynb)
 
 SMALL PROJECT: 5xp
 
