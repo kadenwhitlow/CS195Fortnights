@@ -119,17 +119,17 @@ POINTS EXPECTED: 15xp
 
 CORE PRACTICE: 5xp
 
-- F4_1_WORDNET.ipynb
+- [F4_1_WORDNET.ipynb](Fortnight4/COREPRACTICE F4_1_WordNet.ipynb)
 - [F4_2_WORDSENSEDISAMBIGUATION.ipynb](Fortnight4/APPLIED EXPORATION F4_2_WordSenseDisambiguation.ipynb)
 - [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICE Copy_of_F4_3_ContextFreeGrammars.ipynb)
 
 APPLIED EXPLORATION: 5xp
 
-- F4_3_CONTEXTFREEGRAMMARS.ipynb
+- [F4_3_CONTEXTFREEGRAMMARS.ipynb](Fortnight4/COREPRACTICE Copy_of_F4_3_ContextFreeGrammars.ipynb)
 
 SMALL PROJECT: 5xp
 
-- WordGame.py
+- [WordGame.py](Fortnight4/WordGame.py)
 
   DESCRIPTION: I made a small project that is a matching game, where the WordNet library is used 
   and the board is generated based on synonyms of words.
