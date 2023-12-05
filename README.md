@@ -32,7 +32,7 @@ GUI IMAGE:
 
 
 CORE PRACTICE: - 5pts
-  Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb
+  [a link](Fortnight1/HuggingFaceAppliedExplorationandPractice.ipynb)
   INCLUDESGROUPWORKDataEvaluation.ipynb
   RougeSummarizationPractice.ipynb
 
