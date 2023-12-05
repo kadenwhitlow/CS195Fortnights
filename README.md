@@ -151,14 +151,14 @@ POINTS EXPECTED: 10xp
 
 CORE PRACTICE: 5xp
 
-- F5_1_Parsing.ipynb
-- F5_2_MachineLearning.ipynb
-- F5_3_NeuralNetworks.ipynb
-- F5_4_Embeddings.ipynb
+- [F5_1_Parsing.ipynb](Fortnight5/COREPRACTICEF5_1_Parsing.ipynb)
+- [F5_2_MachineLearning.ipynb](Fortnight5/COREPRACTICEF5_2_MachineLearning.ipynb)
+- [F5_3_NeuralNetworks.ipynb](Fortnight5/APPLIEDEXPLORATIONF5_3_NeuralNetworks.ipynb)
+- [F5_4_Embeddings.ipynb](Fortnight5/COREPRACTICEF5_4_Embeddings.ipynb)
 
 APPLIED EXPLORATION: 5xp
 
-- F5_3_NeuralNetworks.ipynb
+- [F5_3_NeuralNetworks.ipynb](Fortnight5/APPLIEDEXPLORATIONF5_3_NeuralNetworks.ipynb)
 
 
 # Fortnight 6
