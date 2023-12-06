@@ -190,12 +190,24 @@ GROUP: Gabe, Ana, Katya
 
 WHAT I PRESENTED:
 
-I presented a small project, that was a chatbot who could hold a conversation with a user. I used the facebook/blenderbot model and create a gui that takes a users input then the bot responds back!
+I presented a small project, that was a chatbot who could hold a conversation with a user.
 
-POINTS EXPECTED: 15 xp
+POINTS EXPECTED: 15xp
 
-CORE PRACTICE: 5 xp
+CORE PRACTICE: 5xp
 
 - [F7_1_TransferLearning](F7_1_TransferLearning.ipynb)
+- [F7_2_AttentionTransformers](F7_2_AttentionTransformers.ipynb)
+- [F7_3_ConversationalModels](F7_3_ConversationalModels.ipynb)
+
+APPLIED EXPLORATION: 5xp
+
+- [F7_1_TransferLearning](F7_1_TransferLearning.ipynb)
+
+SMALL PROJECT: 5xp
+
+DESCRIPTION: 
+
+I used the facebook/blenderbot model and create a gui that takes a users input then the bot responds back! The program as you see below is not the greatest, as you can see they say they work at sams club but also they dont know what sam's club is. I think it is really cool either way it can have a conversation and I have an extra function in the class that can do some training on the model. I did not have enough space on my computer to run this function, due to the large dataset I tried to pass in!
 
 <img width="708" alt="Screenshot 2023-12-06 at 9 39 07 AM" src="https://github.com/kadenwhitlow/CS195Fortnights/assets/118291323/484657cb-b151-4885-be66-58d608372f06">
