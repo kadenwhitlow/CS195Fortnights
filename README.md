@@ -196,4 +196,6 @@ POINTS EXPECTED: 15 xp
 
 CORE PRACTICE: 5 xp
 
+- [F7_1_TransferLearning](F7_1_TransferLearning.ipynb)
 
+<img width="708" alt="Screenshot 2023-12-06 at 9 39 07 AM" src="https://github.com/kadenwhitlow/CS195Fortnights/assets/118291323/484657cb-b151-4885-be66-58d608372f06">
