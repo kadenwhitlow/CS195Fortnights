@@ -182,3 +182,18 @@ CORE PRACTICE: 5xp
 APPLIED EXPLORATION: 5xp
 
 - [F6_1_NeuralLanguageModeling.ipynb](Fortnight6/APPLIEDEXPLORATIONF6_1_NeuralLanguageModeling.ipynb)
+
+
+# Fortnight 7
+
+GROUP: Gabe, Ana, Katya
+
+WHAT I PRESENTED:
+
+I presented a small project, that was a chatbot who could hold a conversation with a user. I used the facebook/blenderbot model and create a gui that takes a users input then the bot responds back!
+
+POINTS EXPECTED: 15 xp
+
+CORE PRACTICE: 5 xp
+
+
