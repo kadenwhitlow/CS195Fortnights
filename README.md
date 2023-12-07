@@ -196,15 +196,18 @@ POINTS EXPECTED: 15xp
 
 CORE PRACTICE: 5xp
 
-- [F7_1_TransferLearning](F7_1_TransferLearning.ipynb)
-- [F7_2_AttentionTransformers](F7_2_AttentionTransformers.ipynb)
-- [F7_3_ConversationalModels](F7_3_ConversationalModels.ipynb)
+- [F7_1_TransferLearning](Fortnight7/F7_1_TransferLearning.ipynb)
+- [F7_2_AttentionTransformers](Fortnight7/F7_2_AttentionTransformers.ipynb)
+- [F7_3_ConversationalModels](Fornight7/F7_3_ConversationalModels.ipynb)
+- [F7_4_RLHF](Fortnight7/F7_4_RLHF.ipynb)
 
 APPLIED EXPLORATION: 5xp
 
-- [F7_1_TransferLearning](F7_1_TransferLearning.ipynb)
+- [F7_1_TransferLearning](Fortnight7/F7_1_TransferLearning.ipynb)
 
 SMALL PROJECT: 5xp
+
+- [chatbot.py](Fortnight7/chatbot.py)
 
 DESCRIPTION: 
 
