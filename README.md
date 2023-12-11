@@ -1,5 +1,6 @@
 # CS195Fortnights
 
+[TOTAL POINTS EXPECTED: 97]
 
 This is my GITHUB for every Fortnight in the course:
 
@@ -11,7 +12,7 @@ There is more information in the text files for every folder.
 
 # Fortnight 1
 
-POINTS EXPECTED: 17xp
+[POINTS EXPECTED: 17xp]
 
 PRESENTATION:
   PRESENTED TO: Jack, Gonzalo, Angel
@@ -49,7 +50,7 @@ You can continue to add to the text and the gui will take an average of all of t
 
 # Fortnight 2
 
-POINTS EXPECTED: 15xp
+[POINTS EXPECTED: 15xp]
 
 GROUP: Gonzalo, Jack, Angel
 
@@ -106,7 +107,7 @@ WHAT I PRESENTED:
 
 I presented the small project matching game I created! The description of the game is below.
 
-POINTS EXPECTED: 15xp
+[POINTS EXPECTED: 15xp]
 
 CORE PRACTICE: 5xp
 
@@ -138,7 +139,7 @@ WHAT I PRESENTED:
 I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
 for text classification and got it working with the Keras neural network. I also changed and added more layers.
 
-POINTS EXPECTED: 10xp
+[POINTS EXPECTED: 10xp]
 
 CORE PRACTICE: 5xp
 
@@ -161,7 +162,7 @@ WHAT I PRESENTED:
 I presented an applied exploration where I selected another Hugging Face dataset (Ethics Sentence Dataset)
 for text classification and got it working with the Keras neural network. I also changed and added more layers.
 
-POINTS EXPECTED: 10xp
+[POINTS EXPECTED: 10xp]
 
 CORE PRACTICE: 5xp
 
@@ -183,7 +184,7 @@ WHAT I PRESENTED:
 
 I presented a small project, that was a chatbot who could hold a conversation with a user.
 
-POINTS EXPECTED: 15xp
+[POINTS EXPECTED: 15xp]
 
 CORE PRACTICE: 5xp
 
