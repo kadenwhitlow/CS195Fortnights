@@ -10,9 +10,6 @@ There is more information in the text files for every folder.
 ## PROJECTED POINTS EARNED:
 
 # Fortnight 1
-5xp : Core Practice
-5xp : Applied Exploration
-5xp : Small Project
 
 POINTS EXPECTED: 17xp
 
@@ -51,9 +48,6 @@ It then analyzes the text and outputs a score.
 You can continue to add to the text and the gui will take an average of all of the scores.
 
 # Fortnight 2
-- 5xp : Core Practice
-- 5xp : Applied Exploration
-- 5xp : Small Project
 
 POINTS EXPECTED: 15xp
 
@@ -84,12 +78,11 @@ When the user is done writing their story is completed automatically by the mode
 The full story is then generated.
 
 # Fortnight 3
-- 5xp : Core Practice
-- 5xp : Applied Exploration
-- 5xp : Extended Implementation
+
 EXPECTED POINTS: 15xp
 
 GROUP MEMBERS: Gabe, Cooper, Mack
+
 CORE PRACTICE: 5PTS
 - [COREPRACTICEF3_1_Tokenization.ipynb](Fortnight3/COREPRACTICEF3_1_Tokenization.ipynb)
 - [F3_2_AutoTokenization(1).ipynb](Fortnight3/F3_2_AutoTokenization(1).ipynb)
@@ -106,9 +99,7 @@ Extended Implementation Idea: 5PTS
   NOTE: I did the extended implementation at the bottom of the F3_2 AutoTokenization notebook!
 
 # Fortnight 4
-5xp - Core Practice
-5xp - Applied Exploration
-5xp - Small Project
+
 GROUP: Gabe, Cooper, Mack
 
 WHAT I PRESENTED:
