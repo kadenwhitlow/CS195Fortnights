@@ -79,7 +79,7 @@ The full story is then generated.
 
 # Fortnight 3
 
-EXPECTED POINTS: 15xp
+[EXPECTED POINTS: 15xp]
 
 GROUP MEMBERS: Gabe, Cooper, Mack
 
